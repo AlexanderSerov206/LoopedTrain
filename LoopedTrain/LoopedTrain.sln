@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopedTrain", "LoopedTrain\LoopedTrain.csproj", "{EF30C9DD-FE23-417C-8B79-66BFB89C923A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF30C9DD-FE23-417C-8B79-66BFB89C923A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF30C9DD-FE23-417C-8B79-66BFB89C923A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF30C9DD-FE23-417C-8B79-66BFB89C923A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF30C9DD-FE23-417C-8B79-66BFB89C923A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD8EDC9C-EC4A-4282-A996-4BAB34B32CCF}
+	EndGlobalSection
+EndGlobal
